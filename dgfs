@@ -1,0 +1,108 @@
+[33mcommit 1a4cea62f6f4eb1604c110c369b9ed1323542c9f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d4b8de8 662e940
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 19:48:02 2020 +0800
+
+    conflict fixed
+
+[33mcommit d4b8de8b362c0322574a41c4728f67811445f7c1[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 19:40:53 2020 +0800
+
+    and simple
+
+[33mcommit 662e9406116d8e8d8f45a524b64f750046950d83[m[33m ([m[1;32mdev[m[33m)[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 19:39:24 2020 +0800
+
+    and simple
+
+[33mcommit 5c7d89b69f3245224a69fb2e91da2c64f0b551b1[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 19:31:06 2020 +0800
+
+    kkk
+
+[33mcommit c9a877856b4b3e734afeebf8d2ba795f08ff5c89[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 19:22:56 2020 +0800
+
+    branch
+
+[33mcommit ef6f0233c429fa94dc88f31e296a374a0815097d[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 18:31:41 2020 +0800
+
+    rm
+
+[33mcommit e3c6b21a98175931fb33e0216b2423ad91ed0953[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 16:05:38 2020 +0800
+
+    lll
+
+[33mcommit 9055b4fd9cb9f2712d2d0347e639ef244eff4a26[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:46:40 2020 +0800
+
+    kk
+
+[33mcommit 687d4ab66d8c4599f74cb5bff3334d6a90320107[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:20:30 2020 +0800
+
+    readme
+
+[33mcommit ce1de05697118b1f5e28d4065d90d2fe5d7c4a29[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:13:32 2020 +0800
+
+    message
+
+[33mcommit ee5b6a490ffd87dbd3ba9e7b7ffe7dde9b9f80a3[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:07:38 2020 +0800
+
+    license
+
+[33mcommit 0f7d537c5ddc37fe2a358be14c6680891116d610[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:05:44 2020 +0800
+
+    restored
+
+[33mcommit efbe3bbbaf491a23ab86462bf39bc0b2bbfc96a7[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:04:50 2020 +0800
+
+    restore
+
+[33mcommit 9718ff62199b9a476091e4f8d0976602f825a0b2[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 14:03:34 2020 +0800
+
+    commit
+
+[33mcommit dda8ef45d0cc418d0a1af50bf5b6aa85ca0ad2be[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 13:02:06 2020 +0800
+
+    git tracks changes
+
+[33mcommit cacd971b6a9ecee7e08eb115d2cfe5164d179f78[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 13:00:18 2020 +0800
+
+    git tracks changes
+
+[33mcommit 8591d4e85f9b2945d3e0baa78779a821b43e786e[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 12:33:13 2020 +0800
+
+    wrote a distributed
+
+[33mcommit 1e9568c033eb3aa74e6deb325122666f04463e49[m
+Author: linmingjiang <a1043107645@qq.com>
+Date:   Fri May 8 12:21:45 2020 +0800
+
+    wrote a readme file

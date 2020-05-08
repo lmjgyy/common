@@ -5,3 +5,4 @@ Git tracks changes
 your boss is very very stupid 
 Creating a new branch is quick AND simple.
 
+3).git log --graph --pretty=oneline --abbrev-commit(查看分支状态)或git log --graph
